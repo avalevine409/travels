@@ -1,0 +1,21 @@
+body {
+  background-color: AliceBlue;
+  color: black;
+  font-family:'Trebuchet Ms', cursive;
+  margin: 10px 30px 10px 30px;
+  /* top, right, bottom, left */
+}
+
+h1 {
+  font-size: 40px;
+  font-variant: small-caps;
+}
+
+h2 {
+  font-size: 30px
+  font-variant: small-caps;
+}
+
+div {
+  border-bottom: 1px dashed Black
+}
