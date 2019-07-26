@@ -1,0 +1,35 @@
+body {
+  background-color: #ccccff;
+  color: black;
+  font-family: 'Trebuchet MS';
+  margin: 10px 30px 10px 30px;
+}
+
+h1 {
+  font-size: 40px;
+  font-variant: small-caps;
+}
+
+h2 {
+  font-size: 35px;
+  font-variant: small-caps;
+}
+
+div {
+  border-bottom: 1px dashed black;
+}
+
+h3 {
+  font-size: 15px;
+  font-variant: small-caps;
+}
+
+h4 {
+  font-size: 15px;
+  font-variant: small-caps;
+}
+
+h5 {
+  font-size: 20px;
+  font-variant: small-caps;
+}

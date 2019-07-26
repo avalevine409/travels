@@ -1,0 +1,22 @@
+body {
+  background-color: lightblue;
+  color: black;
+  font-family: 'monospace';
+  margin: 10px,30px,10px,30px;
+}
+
+h1 {
+  font-size: 40px;
+  font-variant: small-caps;
+}
+
+p {
+  font-size: 20px;
+}
+h2 {
+  font-size: 35px;
+}
+
+em {
+  font-size: 17px;
+}
